@@ -3,12 +3,12 @@
 Aplikace pro rychlou a jednoduchou orientaci pro přílet na cizí letiště. Pomáhá se zobrazením základních (ale snad užitečných) informací o letištích v ČR.
 
 ### Report chyb
-https://github.com/CZlovek/vfrmanual/issues
+(https://github.com/CZlovek/vfrmanual/issues)
 
 
-```Licence MIT
+```markdown
 
-https://cs.wikipedia.org/wiki/Licence_MIT
+[Licence MIT](https://cs.wikipedia.org/wiki/Licence_MIT)
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
