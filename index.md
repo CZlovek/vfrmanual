@@ -5,7 +5,10 @@ Aplikace pro rychlou a jednoduchou orientaci pro přílet na cizí letiště. Po
 ### Report chyb
 [Odkaz](https://github.com/CZlovek/vfrmanual/issues) pro reporting chyb, připomínek a nápadů 
 
+### Kontakt
+[Email](mailto:petr.sukac@gmail.com)
 
+### Licence
 ```markdown
 
 Licence MIT
