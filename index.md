@@ -6,10 +6,9 @@ Aplikace pro rychlou a jednoduchou orientaci pro přílet na cizí letiště. Po
 [![AppStore][appstore-image]][appstore-url]
 [![PlayStore][playstore-image]][playstore-url]
 
-
 <!-- Put the following at the end of README.md -->
 [appstore-image]: Download_on_the_App_Store_Badge_CZ_RGB_wht_092917.svg
-[playstore-image]: https://play.google.com/intl/en_us/badges/static/images/badges/cs_badge_web_generic.png
+[playstore-image]: https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0
 
 <!-- Setup URLs -->
 [appstore-url]: https://www.apple.com
