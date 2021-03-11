@@ -2,6 +2,10 @@
 
 Aplikace pro rychlou a jednoduchou orientaci pro přílet na cizí letiště. Pomáhá se zobrazením základních (ale snad užitečných) informací o letištích v ČR.
 
+### Ke stažení
+[<img src="google-play-badge.png">](https://play.google.com/store/apps/details?id=com.lomolo.vfr_manual)
+[<img src="Download_on_the_App_Store_Badge_CZ_RGB_wht_092917.svg">](https://www.apple.com)
+
 ### Report chyb
 [Odkaz](https://github.com/CZlovek/vfrmanual/issues) pro reporting chyb, připomínek a nápadů 
 
