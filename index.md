@@ -11,7 +11,7 @@ Aplikace pro rychlou a jednoduchou orientaci pro přílet na cizí letiště. Po
 [playstore-image]: https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0
 
 <!-- Setup URLs -->
-[appstore-url]: https://www.apple.com
+[appstore-url]: https://apps.apple.com/us/app/vfr-manu%C3%A1l-cz-mk-ii/id1557517191
 [playstore-url]: https://play.google.com/store/apps/details?id=com.lomolo.vfr_manual&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
 ### Report chyb
