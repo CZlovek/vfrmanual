@@ -19,11 +19,11 @@ Dalo nám to dost práce, ale už to není jen pro androida, nýbrž i pro jabko
 [appstore-url]: https://apps.apple.com/us/app/vfr-manu%C3%A1l-cz-mk-ii/id1557517191
 [playstore-url]: https://play.google.com/store/apps/details?id=com.lomolo.vfr_manual&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
-### Hlášení chyb, případně návrh vašich připomínek a zajímavých nápadů
+### Hlášení chyb, vašich připomínek a návrhy zajímavých nápadů
 můžete neosobně provést [například zde](https://github.com/CZlovek/vfrmanual/issues), případně s námi probrat na letištním baru v Křižanově.
 
 ### Kontakt
-[Email](mailto:petr.sukac@gmail.com)
+[Emailem](mailto:petr.sukac@gmail.com) nebo rádiem na 133,155.
 
 ### Hodnocení
 Kdo dá méně než pět hvězdiček, tomu vrtule upadne, případně do pole sedne! :P
