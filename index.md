@@ -1,6 +1,10 @@
-## Vítejte na stránce VFR Manuál
+## Vítejte na stránce VFR Manuálu
 
-Aplikace pro rychlou a jednoduchou orientaci pro přílet na cizí letiště. Pomáhá se zobrazením základních (ale snad užitečných) informací o letištích v ČR.
+VFR manuál je přehledná aplikace pro snadnou orientaci při příletu na cizí letiště. Nabízí přístupné zobrazení základních (ale užitečných a podstatných) informací o letištích v ČR, SR, některých v Polsku, Rakousku a Německu (čili okolních zemí), kam může našinec ať záměrně, nebo omylem zabloudit. A protože i na jiných letištích se lze seznámit se zajímavými individui (a individuidkami), nabízíme tuto pomůcku (nejen k seznamování) všem okřídleným šílencům zdarma pro radost a potěšení :)
+
+
+
+<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/1.jpg" width="200" height="355"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/2.jpg" width="200" height="355"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/3.jpg" width="200" height="355"/>
 
 ### Ke stažení
 [![AppStore][appstore-image]][appstore-url]
