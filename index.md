@@ -6,7 +6,9 @@ VFR manuál je přehledná aplikace pro snadnou orientaci při příletu na ciz�
 
 ### Ke stažení
 Dalo nám to dost práce, ale už to není jen pro androida, nýbrž i pro jabko!
-[![PlayStore][playstore-image]][playstore-url] [![AppStore][appstore-image]][appstore-url]
+
+[![PlayStore][playstore-image]][playstore-url] 
+[![AppStore][appstore-image]][appstore-url]
 
 
 <!-- Put the following at the end of README.md -->
@@ -22,6 +24,9 @@ můžete neosobně provést [zde] (https://github.com/CZlovek/vfrmanual/issues),
 
 ### Kontakt
 [Email](mailto:petr.sukac@gmail.com)
+
+### Hodnocení
+Kdo dá méně než pět hvězdiček, tomu vrtule upadne, případně do pole sedne! :P
 
 ### Licence
 ```markdown
