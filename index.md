@@ -20,7 +20,7 @@ Dalo nám to dost práce, ale už to není jen pro androida, nýbrž i pro jabko
 [playstore-url]: https://play.google.com/store/apps/details?id=com.lomolo.vfr_manual&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
 ### Hlášení chyb, případně návrh vašich připomínek a zajímavých nápadů
-můžete neosobně provést [zde] (https://github.com/CZlovek/vfrmanual/issues), případně s námi probrat na letištním baru v Křižanově.
+můžete neosobně provést [například zde](https://github.com/CZlovek/vfrmanual/issues), případně s námi probrat na letištním baru v Křižanově.
 
 ### Kontakt
 [Email](mailto:petr.sukac@gmail.com)
