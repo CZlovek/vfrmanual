@@ -1,6 +1,6 @@
-## Vítejte na stránce VFR Manuálu
+## Vítejte na stránce VFR Manuálu!
 
-VFR manuál je přehledná aplikace pro snadnou orientaci při příletu na cizí letiště. Nabízí přístupné zobrazení základních (ale užitečných a podstatných) informací o letištích v ČR, SR, některých v Polsku, Rakousku a Německu (čili okolních zemí), kam může našinec ať záměrně, nebo omylem zabloudit. A protože i na jiných letištích se lze seznámit se zajímavými individui (a občas i individuidkami!), nabízíme tuto pomůcku (nejen k seznamování) všem okřídleným šílencům jako jsme my, zdarma pro radost a potěšení :)
+VFR manuál je přehledná aplikace pro snadnou orientaci při příletu na cizí letiště. Nabízí přístupné zobrazení základních (ale všech užitečných a podstatných) informací o letištích v ČR, SR, některých v Polsku, Rakousku a Německu (čili i okolních království), kam může našinec ať záměrně, nebo omylem zabloudit. A protože i na jiných letištích se lze seznámit se zajímavými individui (a občas i individuidkami!), nabízíme tuto pomůcku (nejen k seznamování) všem okřídleným šílencům jako jsme my, zdarma pro radost a potěšení :)
 
 <img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/1.jpg" width="200" height="355"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/2.jpg" width="200" height="355"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/3.jpg" width="200" height="355"/>
 
