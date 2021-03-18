@@ -1,14 +1,13 @@
 ## Vítejte na stránce VFR Manuálu
 
-VFR manuál je přehledná aplikace pro snadnou orientaci při příletu na cizí letiště. Nabízí přístupné zobrazení základních (ale užitečných a podstatných) informací o letištích v ČR, SR, některých v Polsku, Rakousku a Německu (čili okolních zemí), kam může našinec ať záměrně, nebo omylem zabloudit. A protože i na jiných letištích se lze seznámit se zajímavými individui (a individuidkami), nabízíme tuto pomůcku (nejen k seznamování) všem okřídleným šílencům zdarma pro radost a potěšení :)
-
-
+VFR manuál je přehledná aplikace pro snadnou orientaci při příletu na cizí letiště. Nabízí přístupné zobrazení základních (ale užitečných a podstatných) informací o letištích v ČR, SR, některých v Polsku, Rakousku a Německu (čili okolních zemí), kam může našinec ať záměrně, nebo omylem zabloudit. A protože i na jiných letištích se lze seznámit se zajímavými individui (a občas i individuidkami!), nabízíme tuto pomůcku (nejen k seznamování) všem okřídleným šílencům jako jsme my, zdarma pro radost a potěšení :)
 
 <img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/1.jpg" width="200" height="355"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/2.jpg" width="200" height="355"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/3.jpg" width="200" height="355"/>
 
 ### Ke stažení
-[![AppStore][appstore-image]][appstore-url]
-[![PlayStore][playstore-image]][playstore-url]
+Dalo nám to dost práce, ale už to není jen pro androida, nýbrž i pro jabko!
+[![PlayStore][playstore-image]][playstore-url] [![AppStore][appstore-image]][appstore-url]
+
 
 <!-- Put the following at the end of README.md -->
 [appstore-image]: Download_on_the_App_Store_Badge_CZ_RGB_wht_092917.svg
@@ -18,8 +17,8 @@ VFR manuál je přehledná aplikace pro snadnou orientaci při příletu na ciz�
 [appstore-url]: https://apps.apple.com/us/app/vfr-manu%C3%A1l-cz-mk-ii/id1557517191
 [playstore-url]: https://play.google.com/store/apps/details?id=com.lomolo.vfr_manual&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
-### Report chyb
-[Odkaz](https://github.com/CZlovek/vfrmanual/issues) pro reporting chyb, připomínek a nápadů 
+### Hlášení chyb, případně návrh vašich připomínek a zajímavých nápadů
+můžete neosobně provést [zde] (https://github.com/CZlovek/vfrmanual/issues), případně s námi probrat na letištním baru v Křižanově.
 
 ### Kontakt
 [Email](mailto:petr.sukac@gmail.com)
