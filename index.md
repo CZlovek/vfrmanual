@@ -10,7 +10,7 @@ Dalo nám to dost práce, ale už to není jen pro androida, nýbrž i pro jabko
 [![PlayStore][playstore-image]][playstore-url] 
 [![AppStore][appstore-image]][appstore-url]
 
-<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/qr-code-android.png" width="200" height="355"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/qr-code-jabko.png" width="200" height="355"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/qr-code-android.png" width="200" height="200"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/img/qr-code-jabko.png" width="200" height="200"/>&nbsp;&nbsp;
 
 <!-- Put the following at the end of README.md -->
 [appstore-image]: Download_on_the_App_Store_Badge_CZ_RGB_wht_092917.svg
