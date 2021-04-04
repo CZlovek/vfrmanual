@@ -20,6 +20,9 @@ Dalo nám to dost práce, ale už to není jen pro androida, nýbrž i pro jabko
 [appstore-url]: https://apps.apple.com/us/app/vfr-manu%C3%A1l-cz-mk-ii/id1557517191
 [playstore-url]: https://play.google.com/store/apps/details?id=com.lomolo.vfr_manual&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
 
+### Propaganda
+[Plakátek](https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/propaganda/propaganda-vfr-manual-v2.pdf) pro vyvěšení na instruktorskou nebo kamkoliv jinde po letišti stahute [odtud](https://raw.githubusercontent.com/CZlovek/vfrmanual/gh-pages/propaganda/propaganda-vfr-manual-v2.pdf).
+
 ### Hlášení chyb, vašich připomínek a návrhy zajímavých nápadů
 můžete neosobně provést [například zde](https://github.com/CZlovek/vfrmanual/issues), případně s námi probrat na letištním baru v Křižanově.
 
